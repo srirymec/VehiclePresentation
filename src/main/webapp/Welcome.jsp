@@ -8,7 +8,6 @@
 <title>Welcome Prahlad</title>
 </head>
 <body>
-	<h5>Welcome</h5>
 	<center>
 		<br /> <br /> <img alt="" src="img/logo2.jpg"> <br /> <br />
 		<br />
@@ -17,7 +16,7 @@
 
 		<br /> <br /> <a href="index.jsp"><h3>Continue...</h3></a> <br />
 
-		<h1>Version 1.1.5</h1>
+		<h1>Version 1.1.6</h1>
 	</center>
 </body>
 </html>
