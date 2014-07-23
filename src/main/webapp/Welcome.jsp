@@ -19,7 +19,7 @@
 
 
 
-		<h1>Version 1.1.6</h1>
+		<h1>Version 1.1.6 </h1>
 
 	</center>
 </body>
