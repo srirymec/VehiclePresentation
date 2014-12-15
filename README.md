@@ -1,3 +1,3 @@
 VehiclePresentation
 ===================
-Commit 1.3
+Commit 1.2
